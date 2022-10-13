@@ -1,3 +1,5 @@
+# Read The Article
+[Article](https://www.sezerbozkir.com/2022/10/python-paketini-pypide-yayinlama/)
 # How to Install
 ```shell
 pip install text_to_list
